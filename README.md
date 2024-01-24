@@ -9,6 +9,6 @@
 <p>-CSS</p>
 <br>
 <img src="https://github.com/JuliodeAndrade/Primeiro-projeto-Desafio-projeto-HTML-e-CSS-figma-1/blob/main/img/Captura%20de%20tela%202024-01-23%20214023.png?raw=true">
--Colocando em pratica responsividade;
+<h2>-Colocando em pratica responsividade;</h2>
 <br>
 <img src="https://github.com/JuliodeAndrade/Primeiro-projeto-Desafio-projeto-HTML-e-CSS-figma-1/blob/main/img/Captura%20de%20tela%202024-01-23%20214109.png?raw=true">
